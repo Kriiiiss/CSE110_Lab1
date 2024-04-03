@@ -6,23 +6,23 @@ My favorite programming language is C++
 
 ### Styling text
 
-**bold text**
+**I like SE**
 
-_italicized_
+_I like SE_
 
-~~mistaken text~~
+~~I don't like SE~~
 
-**Bold and _italicized_ Text**
+**I Like _coding_**
 
-***Bold and italicized Text***
+***Coding is my favorite***
 
-This is a <sub>subscript</sub> text
+This is a <sub>sub</sub> text
 
-This is a <sup>superscript</sup> text
+This is a <sup>sup</sup> text
 
 ### Quoting text
 
-> Text that is a quote
+> I like SE
 
 ### Quoting code
 
@@ -53,7 +53,7 @@ Kris's [GitHub Pages](https://github.com/Kriiiiss/CSE110_Lab1).
 
 ### Task lists
 
-- [x] A
-- [ ] B
-- [ ] C
-- [ ] D
+- [x] play
+- [ ] write lab1
+- [ ] play
+- [ ] play
