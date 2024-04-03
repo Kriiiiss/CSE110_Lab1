@@ -43,7 +43,9 @@ Kris's [GitHub Pages](https://github.com/Kriiiiss/CSE110_Lab1).
 
 ### Section links 
 
-[Read me](README.md)
+### Relative links
+
+[My Readme file](README.md)
 
 ### List
 
@@ -59,5 +61,5 @@ Kris's [GitHub Pages](https://github.com/Kriiiiss/CSE110_Lab1).
 
 - [x] play
 - [ ] write lab1
-- [ ] play
-- [ ] play
+- [ ] write lab2
+- [ ] write lab3
