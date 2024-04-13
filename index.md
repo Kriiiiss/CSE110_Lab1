@@ -6,7 +6,9 @@
 
 <img src="https://github.com/Kriiiiss/CSE110_Lab1/assets/147010005/c3f251af-d688-4d79-acc2-36635128a986" width="400" height="300">
 
+Hi, My name is Kris Chen. I am a third year CS student at UC San Diego. For outdoor activities, I like hiking, swimming and surfing. 
 
+As a programmer, My favorite programming language is python, C++, java. In the future, I am very interested in AI and hope to be an AI engineer.
 
 ### Styling text
 
