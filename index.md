@@ -1,13 +1,10 @@
 # CSE110_Lab1
 
-## Part3
+## Kris Chen
 
 ### Picture
 
-<img width="700" alt="Screenshot1" src="https://github.com/Kriiiiss/CSE110_Lab1/assets/147010005/96154602-e43b-4162-8391-412c72ecccdf">
-
-
-<img width="1489" alt="Screenshot2" src="https://github.com/Kriiiiss/CSE110_Lab1/assets/147010005/08740b67-a422-4c77-92fc-86d8a0b7feb8">
+![myphoto](https://github.com/Kriiiiss/CSE110_Lab1/assets/147010005/c3f251af-d688-4d79-acc2-36635128a986)
 
 
 
