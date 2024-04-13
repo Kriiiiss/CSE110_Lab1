@@ -4,8 +4,7 @@
 
 ### Picture
 
-![myphoto](https://github.com/Kriiiiss/CSE110_Lab1/assets/147010005/c3f251af-d688-4d79-acc2-36635128a986)
-
+<img src="https://github.com/Kriiiiss/CSE110_Lab1/assets/147010005/c3f251af-d688-4d79-acc2-36635128a986" width="100" height="100">
 
 
 
